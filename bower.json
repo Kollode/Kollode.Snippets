@@ -1,0 +1,21 @@
+{
+  "name": "gruntTest",
+  "version": "0.0.0",
+  "authors": [
+    "Patrick Kollodzik <patrick@work.de>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "bootstrap-sass": "~3.0.2",
+	"angular": "~1.2.18"
+  }
+}

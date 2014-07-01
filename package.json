@@ -1,0 +1,14 @@
+{
+  "name": "GruntTest",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-cli": "~0.1.11",
+    "bower": "~1.2.8",
+    "grunt-contrib-sass": "~0.6.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-bower-task": "~0.3.4"
+  }
+}
